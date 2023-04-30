@@ -8,7 +8,6 @@ Youtube Video Downloader using Python
 ## Install
 
 ```
-git clone https://github.com/Malam-X/Youtube-Downloader
 git clone https://github.com/Chickaboo/Youtube-Downloader
 cd Youtube-Downloader
 python3 youtube.py
